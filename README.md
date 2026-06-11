@@ -1,4 +1,4 @@
-# Opa, eu sou o Pedro Augusto!
+# Opa, eu sou o Pedro!
 
 Estudante de **Ciências da Computação** no **Senac**, buscando minha primeira oportunidade como dev.
 
