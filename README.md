@@ -1,16 +1,16 @@
-# Olá, eu sou o Pedro Augusto! 👋
+# Opa, eu sou o Pedro Augusto!
 
 Estudante de **Ciências da Computação** no **Senac**, buscando minha primeira oportunidade como dev.
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Estou em busca de oportunidades onde eu possa aplicar e expandir meus conhecimentos, contribuindo com projetos reais.
 
 ---
 
-## 🛠️ Tecnologias que estou aprendendo
+## Linguagens que estou aprendendo
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,7 +19,7 @@ Estou em busca de oportunidades onde eu possa aplicar e expandir meus conhecimen
 
 ---
 
-## 📂 Projetos em destaque
+## Projetos em destaque
 
 | Projeto | Descrição | Tecnologia |
 |---|---|---|
